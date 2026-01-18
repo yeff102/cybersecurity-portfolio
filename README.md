@@ -59,3 +59,14 @@ I built a real-time network monitoring tool using Scapy and Streamlit to provide
 My journey into cybersecurity began with a Bachelor's in Information Technology, where I developed a strong foundation in networking and systems security. Transitioning into my Master’s at the University of Malaya (UM) has allowed me to bridge the gap between theoretical concepts and hands-on application. So far, the course has expanded my expertise in network defense, specifically through configuring Cisco infrastructure and utilizing simulation tools like GNS3 to build secure, resilient topologies. I have also gained significant insight into the intersection of machine learning and security, particularly in how models can be trained to detect phishing attempts and malicious traffic patterns.
 
 Despite my progress, I still find areas like **Ethical Hacking** and **Capture The Flag (CTF)** competitions to be challenging. These disciplines require a high level of creative problem-solving and rapid adaptation to unfamiliar environments. To improve in these areas, I plan to spend more time on platforms like Hack The Box and TryHackMe to sharpen my penetration testing skills. Additionally, I aim to deepen my understanding of global **Cybersecurity Frameworks** (such as NIST and ISO 27001) to ensure that my technical solutions are always aligned with industry standards and governance best practices.
+
+
+## 6. Career Objective
+My professional aspiration is to become a **Cybersecurity Architect** specializing in secure cloud infrastructure and AI-driven threat intelligence. Building on my background in computer networking and my current research in privacy-preserving data technologies, I aim to design security systems that are not only robust against traditional attacks but also resilient against emerging zero-day threats. I am committed to bridging the gap between technical security implementation and organizational governance to help enterprises navigate the complexities of modern digital defense.
+
+---
+
+## 7. Contact Information
+* **LinkedIn:** [linkedin.com/in/jeff-chooi-706056298/](https://www.linkedin.com/in/jeff-chooi-706056298/)
+* **Email:** [jeffchooi102@gmail.com](mailto:jeffchooi102@gmail.com)
+* **GitHub:** [github.com/yeff102](https://github.com/yeff102)
