@@ -43,3 +43,30 @@ My interest in cybersecurity is driven by a fascination with ethical hacking, se
 * **Privacy-Preserving Technologies Workshop:** Focused on the application of GANs for synthetic data generation in compliance with data protection laws.
 
 
+## 4. Project Experience
+
+### **1. Intelligent Phishing Website Detection Model (Capstone Project)**
+* **Objective:** To develop a high-accuracy system capable of identifying phishing websites and defending against zero-day phishing attacks.
+* **Tools Used:** Python, XGBoost, Random Forest, Decision Tree, Logistic Regression, Naïve Bayes, NLP.
+* **Methodology:** * Processed datasets from UCI and OpenPhish containing over 44,000 sites.
+    * Performed feature engineering on linguistic, domain-based, and content-based features.
+    * Trained and evaluated multiple Machine Learning models to optimize performance.
+* **Outcome:** Achieved a **97.8% accuracy** and a **99.7% ROC-AUC** with the XGBoost model, demonstrating high effectiveness in real-time detection.
+
+### **2. Cloud Security & Data Migration (Accenture Malaysia)**
+* **Objective:** To ensure the secure migration of large-scale enterprise data from SQL to AWS S3.
+* **Tools Used:** AWS (S3, IAM), Informatica IDMC, SQL.
+* **Methodology:** * Applied cloud security principles, including the implementation of strict **IAM policies** and compliance standards.
+    * Managed the secure migration of over 500 tables.
+    * Maintained a **Requirements Traceability Matrix (RTM)** documenting 500+ security and functional requirements across the project lifecycle.
+* **Outcome:** Successfully migrated enterprise data with zero security breaches, ensuring full compliance with governance and enterprise-level cloud security practices.
+
+### **3. Live Network Traffic Sniffer & Security Dashboard**
+* **Objective:** To build a real-time network monitoring tool that captures and classifies traffic to detect potential security anomalies.
+* **Tools Used:** Python, Scapy, Streamlit, Wireshark.
+* **Methodology:** * Developed a custom sniffer script using the **Scapy** library to intercept and analyze live network packets.
+    * Implemented a **Streamlit-based dashboard** for real-time visualization of traffic patterns.
+    * Integrated protocol-based filtering and packet inspection to identify suspicious header data.
+* **Outcome:** Created a functional security tool that provides immediate visibility into network traffic, aiding in rapid threat identification and troubleshooting.
+
+
